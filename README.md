@@ -1,3 +1,3 @@
 # geekboy-affilitate-links
 
-Just extension for quick acces for affiliate links from influencer geekboy
+Just install these files to your computer then go to your browser extension settings turn on developer mod and load folder with these files and you have a working extension
