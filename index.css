@@ -7,34 +7,43 @@ body {
 }
 
 a {
-    border: 10px solid;
-    padding: 10px 20px;
     color: whitesmoke;
     font-weight: bold;
-    width: 150px;
-    margin-top: 4px;
-    margin-bottom: 4px;
+    width: 50px;
+    margin: 4px;
     text-decoration: none;
     position: relative;
-    top: 15px;
 }
+.buttons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
+}
 #czc-btn {
     background: red;
     color: white;
+    text-align: center;
+    padding: 2rem 3rem;
+    border-radius: 1.25rem;
+    border-left: 5rem;
 }
 
 #alza-btn {
     background: darkblue;
     color: white;
+    padding: 2rem 3rem;
+    border-radius: 1.25rem;
+    border-left: 5rem;
+    text-align: center;
 }
 
 #heureka-btn {
     background: darkorange;
     color: white;
     text-align: center;
-}
+    border-radius: 1.25rem;
+    padding: 2rem 3rem;
+    border-left: 5rem;
 
-#delete-btn {
-    background: black;
 }
